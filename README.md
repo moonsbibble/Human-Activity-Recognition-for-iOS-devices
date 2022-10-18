@@ -1,1 +1,1 @@
-# Human-Activity-Recognition-for-iOS-devices
+# Human Activity Recognition for iOS devices
